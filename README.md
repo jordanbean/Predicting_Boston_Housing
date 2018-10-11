@@ -4,4 +4,4 @@ The goal of the project is to use Boston property value records to create a pred
 
 The code begins with exploratory data analysis before going into preprocessing the data for machine learning, feature engineering, feature selection, and final model tuning.
 
-An accompanying write-up can be found on my Medium page: https://medium.com/@jordanbean. 
+An accompanying write-up can be found here: https://towardsdatascience.com/predicting-bostons-expensive-property-market-bdcd9db6a218. 
